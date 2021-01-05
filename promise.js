@@ -150,6 +150,7 @@ class XG {
       })
     })
   }
+  
   // 封装自定属性race方法。
   static race(proArr) {
     // 返回一个新的promise实例
